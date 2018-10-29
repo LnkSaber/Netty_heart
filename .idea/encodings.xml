@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/netty-3.10.5.Final-sources.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/netty-3.10.5.Final.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/netty-all-5.0.0.Alpha2-sources.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/netty-all-5.0.0.Alpha2.jar" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
